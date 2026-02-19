@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tonya/Desktop/Git/PuzzlesUnreal/Puzzles/Content/ThirdPerson/BP_interactable.uasset",
+				"C:/Users/tonya/Desktop/Git/PuzzlesUnreal/Puzzles/Content/ThirdPerson/W_Interaction.uasset",
+				"C:/Users/tonya/Desktop/Git/PuzzlesUnreal/Puzzles/Content/ThirdPerson/BP_Door.uasset",
+				"C:/Users/tonya/Desktop/Git/PuzzlesUnreal/Puzzles/Content/ThirdPerson/BI_Interactables.uasset",
+				"C:/Users/tonya/Desktop/Git/PuzzlesUnreal/Puzzles/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tonya/Desktop/Git/PuzzlesUnreal/Puzzles/Content/ThirdPerson/Map.umap",
+				"C:/Users/tonya/Desktop/Git/PuzzlesUnreal/Puzzles/Content/ThirdPerson/Forest.uasset"
+			]
+		}
+	]
+}
